@@ -61,7 +61,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/utkarsh-shukla-317509191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Shukla-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/utkarshshukla59/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Utkarsh Shukla-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/utkarshshukla59/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Utkarsh Shukla-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:utkarshshukla707@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-utkarshshukla707@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
