@@ -65,7 +65,7 @@
 <a href="mailto:utkarshshukla707@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-utkarshshukla707@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=utkarsh314.utkarsh314)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=utkarsh314.utkarsh314)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 <hr>
