@@ -47,13 +47,10 @@
 <br/><br/>
 
 
-[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh314&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh314&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/utkarsh314">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh314&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh314&theme=buefy&layout=compact" />
+</a>
 
 
 
