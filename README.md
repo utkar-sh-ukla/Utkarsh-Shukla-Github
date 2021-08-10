@@ -46,7 +46,8 @@
 
 <br/><br/>
 
-[![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh314&show_icons=true)](https://github.com/utkarsh314)
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh314)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
 
