@@ -46,7 +46,9 @@
 
 <br/><br/>!
 
-[Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh314&count_private=true)
+
+[![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarsh314&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
