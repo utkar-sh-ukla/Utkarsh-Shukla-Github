@@ -1,73 +1,39 @@
-### Hi there 👋<h2> I'm Utkarsh</h2>
+<h1 align="center"> Hi, I'm Utkarsh 👋 </h1>
+<h3 align="center">✨ Full Stack Web Developer ✨</h3>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+- 🎓 Studying Computer Science and Engineering at IIIT Una.
+- 🌱 I’m currently learning JavaScript, Node JS and AI.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+<!-- - 💬 Ask me about Javascipt Frameworks & Maths. -->
+- 📫 How to reach me: ⤵
 
-<h3> 👨🏻•💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Una and coding stuffs.
-
-<!-- - 🌱 &nbsp; Learning about . -->
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | C++ | C | MySQL
-
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | NodeJS
-
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | NextJS | WebGL
-
-<hr>
-
-
-
-<br/><br/>
-
-
-<a href="https://github.com/utkarsh314">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=utkarsh314&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh314&theme=buefy&layout=compact" />
-</a>
-
-
-<br/><br/>
-
-<hr>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/utkarsh-shukla-317509191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Utkarsh%20Shukla-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/utkarshshukla59/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Utkarsh Shukla-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:utkarshshukla707@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-utkarshshukla707@gmail.com-blue?style=flat-square&logo=gmail"></a>
+	<a href="mailto:utkarshshukla707@gmail.com">
+		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:utkarshshukla707@gmail.com" />
+	</a>
+	<span>  </span>
+	<a href="www.linkedin.com/in/utkarshprofile/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarshprofile/" />
+	</a>
 </p>
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=utkarsh314.utkarsh314)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
+### 💻 Open Source Work Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Shukla-Github&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Shukla-Github&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
+</p>
 
-<hr>
+<p align="center">
+	<img alt="visitors" src="https://komarev.com/ghpvc/?username=Utkarsh-Shukla-Github&color=8c36db&style=flat&label=visitors" />
+</p>
 
-
+<br>
+<h4 align="center">
+	Show some ❤️ by starring my repositories!
+</h4>
+<h3 align="center">
+  Thanks for visiting.
+</h3>
