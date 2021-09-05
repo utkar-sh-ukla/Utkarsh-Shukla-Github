@@ -2,10 +2,9 @@
 <h3 align="center">✨ Full Stack Web Developer ✨</h3>
 
 - 🎓 Studying Computer Science and Engineering at IIIT Una.
-- 🌱 I’m currently learning JavaScript, Node JS and AI.
+- 🌱 I’m currently learning WebGl & ThreeJs.
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-<!-- - 💬 Ask me about Javascipt Frameworks & Maths. -->
 - 📫 How to reach me: ⤵
 
 
