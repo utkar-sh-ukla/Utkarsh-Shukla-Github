@@ -13,8 +13,8 @@
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:utkarshshukla707@gmail.com" />
 	</a>
 	<span>  </span>
-	<a href="www.linkedin.com/in/utkarshprofile/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarshprofile/" />
+	<a href="https://www.linkedin.com/in/utkarshprofile/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white" />
 	</a>
 </p>
 
