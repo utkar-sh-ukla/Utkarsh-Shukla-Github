@@ -9,11 +9,11 @@
 
 <p align="center">
 	<a href="mailto:utkarshshukla707@gmail.com">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:utkarshshukla707@gmail.com" />
+		<img alt="𝐀𝐬𝐤 𝐌𝐞 𝐀𝐧𝐲𝐭𝐡𝐢𝐧𝐠" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:utkarshshukla707@gmail.com" />
 	</a>
 	<span>  </span>
 	<a href="https://www.linkedin.com/in/utkarshprofile/">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white" />
+		<img alt="𝐋𝐢𝐧𝐤𝐞𝐝𝐢𝐧 𝐏𝐫𝐨𝐟𝐢𝐥𝐞" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white" />
 	</a>
 </p>
 
@@ -33,5 +33,5 @@
 	▁ ▂ ▃ ▅ ▆ ▇ █ 𝐒𝐡𝐨𝐰 𝐬𝐨𝐦𝐞 ❤️ 𝐛𝐲 𝐬𝐭𝐚𝐫𝐫𝐢𝐧𝐠 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬! █ ▇ ▆ ▅ ▃ ▂ ▁
 </h4>
 <h3 align="center">
-  Thanks for visiting.
+  𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐯𝐢𝐬𝐢𝐭𝐢𝐧𝐠.😊
 </h3>
