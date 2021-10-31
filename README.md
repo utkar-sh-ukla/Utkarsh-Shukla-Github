@@ -1,10 +1,10 @@
 <h1 align="center"> 🙋 ℍ𝕚, 𝕀'𝕞 𝓤𝓽𝓴𝓪𝓻𝓼𝓱 𝓢𝓱𝓾𝓴𝓵𝓪 👨🏻‍🎓 </h1>
 <h3 align="center">✨ 𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝕎𝕖𝕓 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 ( ⓂⒺⓇⓃ ) ✨</h3>
 
-- 🎓 Studying Computer Science and Engineering at 𝕀𝕀𝕀𝕋 𝕌ℕ𝔸.<!-- - 🌱 I’m currently learning WebGl & ThreeJs. -->
-- 🤝🏻 I’m looking to collaborate on Open Source Projects.
-- 😄 Exploring new technologies and developing software solutions and quick hacks.
-- 📫 How to reach me: ⤵
+- 🎓 𝐒𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐚𝐭 𝕀𝕀𝕀𝕋 𝕌ℕ𝔸.<!-- - 🌱 I’m currently learning WebGl & ThreeJs. -->
+- 🤝🏻 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬.
+- 😄 𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐚𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐪𝐮𝐢𝐜𝐤 𝐡𝐚𝐜𝐤𝐬.
+- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: ⤵
 
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 
-### 💻 Open Source Work Stats
+### 💻 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐖𝐨𝐫𝐤 𝐒𝐭𝐚𝐭𝐬
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Shukla-Github&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Shukla-Github&layout=compact&theme=tokyonight&count_private=true" alt="languages" height="165">
@@ -30,7 +30,7 @@
 
 <br>
 <h4 align="center">
-	Show some ❤️ by starring my repositories!
+	▁ ▂ ▃ ▅ ▆ ▇ █ 𝐒𝐡𝐨𝐰 𝐬𝐨𝐦𝐞 ❤️ 𝐛𝐲 𝐬𝐭𝐚𝐫𝐫𝐢𝐧𝐠 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬! █ ▇ ▆ ▅ ▃ ▂ ▁
 </h4>
 <h3 align="center">
   Thanks for visiting.
