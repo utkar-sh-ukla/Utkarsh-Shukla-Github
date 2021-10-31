@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm 𝓤𝓽𝓴𝓪𝓻𝓼𝓱 𝓢𝓱𝓾𝓴𝓵𝓪 👋 </h1>
 <h3 align="center">✨ 𝔽𝕦𝕝𝕝 𝕊𝕥𝕒𝕔𝕜 𝕎𝕖𝕓 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 ( ⓂⒺⓇⓃ ) ✨</h3>
 
-- 🎓 Studying Computer Science and Engineering at IIIT Una.<!-- - 🌱 I’m currently learning WebGl & ThreeJs. -->
+- 🎓 Studying Computer Science and Engineering at 𝕀𝕀𝕀𝕋 𝕌ℕ𝔸.<!-- - 🌱 I’m currently learning WebGl & ThreeJs. -->
 - 🤝🏻 I’m looking to collaborate on Open Source Projects.
 - 😄 Exploring new technologies and developing software solutions and quick hacks.
 - 📫 How to reach me: ⤵
